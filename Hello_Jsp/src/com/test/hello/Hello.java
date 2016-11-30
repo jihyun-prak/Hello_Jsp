@@ -6,6 +6,9 @@ public class Hello {
 		System.out.println("Local repository create Hello_Jsp");
 		// hotfix edit by jihyun Park
 		System.out.println("Hot Fix");
+		
+		// 0123456 : origin/master edit by jihyun Park
+		System.out.println("Edit");
 
 	}
 
