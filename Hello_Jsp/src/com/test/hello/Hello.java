@@ -9,6 +9,9 @@ public class Hello {
 		
 		// 0123456 : origin/master edit by jihyun Park
 		System.out.println("Edit");
+		
+		// 369369 : origin/master edit by jihyun
+		System.out.println("github Edit 369369");
 
 	}
 
