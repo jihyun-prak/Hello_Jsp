@@ -9,6 +9,9 @@ public class Hello {
 		
 		// 0123456 : origin/master edit by jihyun Park
 		System.out.println("Edit");
+		
+		// 00700: local/master edit by jihyun Park
+		System.out.println("local edit 1234");
 
 	}
 
