@@ -12,6 +12,9 @@ public class Hello {
 		
 		// 00700: local/master edit by jihyun Park
 		System.out.println("local edit 1234");
+		
+		// 369369 : origin/master edit by jihyun
+		System.out.println("github Edit 369369");
 
 	}
 
