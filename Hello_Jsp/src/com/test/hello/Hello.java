@@ -21,6 +21,8 @@ public class Hello {
 		
 		//258159 : hotfix edit by jihyun`
 		System.out.println("hohoho");
+		
+		System.out.println("rebase test");
 
 	}
 
